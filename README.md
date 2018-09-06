@@ -15,15 +15,6 @@ DensePose-RCNN is implemented in the [Detectron](https://github.com/facebookrese
 
 In this repository, we provide the code to train and evaluate DensePose-RCNN. We also provide notebooks to visualize the collected DensePose-COCO dataset and show the correspondences to the SMPL model.
 
-## Installation
-
-Please find installation instructions for Caffe2 and DensePose in [`INSTALL.md`](INSTALL.md), a document based on the [Detectron](https://github.com/facebookresearch/Detectron) installation instructions.
-
-## Inference-Training-Testing
-
-After installation, please see [`GETTING_STARTED.md`](GETTING_STARTED.md)  for examples of inference and training and testing.
-
-## Notebooks
 
 ### Visualization of DensePose-COCO annotations:
 
@@ -61,11 +52,6 @@ See [`notebooks/DensePose-RCNN-Texture-Transfer.ipynb`](notebooks/DensePose-RCNN
   <img src="https://drive.google.com/uc?export=view&id=1r-w1oDkDHYnc1vYMbpXcYBVD1-V3B4Le" width="900px" />
 </div>
 
-## License
-
-This source code is licensed under the license found in the [`LICENSE`](LICENSE) file in the root directory of this source tree.
-
-## <a name="CitingDensePose"></a>Citing DensePose
 
 If you use Densepose, please use the following BibTeX entry.
 
